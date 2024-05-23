@@ -1,6 +1,6 @@
 **1.	Team Information:**
 
-**- Renad Hassan 2211430 (Team Leader) ( Me ! (: ) **
+****Renad Hassan 2211430 (Team Leader) ( Me ! (: ) ****
 
 -Abrar Habibullah 2210303
 
