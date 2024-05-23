@@ -1,12 +1,12 @@
 **1.	Team Information:**
 
-Renad Hassan 2211430 (Team Leader) ( Me ! (: )
+Renad Hassan  (Team Leader) ( Me ! (: )
 
--Abrar Habibullah 2210303
+-Abrar Habibullah
 
--Dana Majed 2210406
+-Dana Majed
 
--Lama Ahmed 2211135
+-Lama Ahmed
 
 **2.	Outline:**
 
