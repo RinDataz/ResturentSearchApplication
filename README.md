@@ -40,8 +40,7 @@ MongoDB:
 •	Create search.html for restaurant search.
 
 
-**
-4.	What You Learned from This Project**
+**4.	What You Learned from This Project**
 
 •	Database Integration: How to integrate SQL and NoSQL databases into a single application.
 •	Server-Side Programming: Handling routes and database connections.
